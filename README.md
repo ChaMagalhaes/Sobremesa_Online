@@ -53,7 +53,7 @@ Os botões de ligar e de WhatsApp do site usam o número abaixo:
 
 Você pode visualizar o projeto em funcionamento através do GitHub Pages no link abaixo:
 
-**[https://chamagalhaes.github.io/Sorveteria_web](https://chamagalhaes.github.io/Sorveteria_web)**
+**[https://chamagalhaes.github.io/Sorveteria_web](https://chamagalhaes.github.io/Sobremesa_Online)**
 
 ---
 
